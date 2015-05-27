@@ -1,0 +1,1 @@
+first data (nucleosome starting probability and nucleosome occupancy predicted using shearing energy) in each file correspond to the first genomic position of the chromosome.

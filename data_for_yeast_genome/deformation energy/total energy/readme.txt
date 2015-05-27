@@ -1,0 +1,1 @@
+first data in each file corresponds to the first 129-bp genomic region of the chromosome

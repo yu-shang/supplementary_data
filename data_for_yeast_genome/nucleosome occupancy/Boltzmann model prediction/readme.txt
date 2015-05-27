@@ -1,0 +1,1 @@
+first data in each file corresponds to the first genomic position of the chromosome
