@@ -1,2 +1,2 @@
 This file directory includes Supplementary data for 
-"Distinct roles of DNA bending and shearing in predicting nucleosome dyads and occupancy".
+"A deformation energy-based model for predicting nucleosome dyads and occupancy".
